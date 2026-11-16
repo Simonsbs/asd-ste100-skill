@@ -1,0 +1,2 @@
+# Optional local PDF lookup. Not needed by the skill instructions or source monitor.
+PyMuPDF>=1.26.0,<2

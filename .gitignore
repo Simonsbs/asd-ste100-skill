@@ -1,0 +1,12 @@
+.local/
+.venv/
+__pycache__/
+*.py[cod]
+*.pdf
+*.docx
+*.zip
+.env
+.env.*
+!.env.example
+dist/
+build/

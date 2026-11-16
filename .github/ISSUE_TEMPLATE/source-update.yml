@@ -1,0 +1,18 @@
+name: Source or rule update
+description: Report a changed official source, incorrect interpretation, or broken reference.
+title: 'Source review: '
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL and edition
+      description: Link the publication. Do not attach protected standards or private documents.
+    validations:
+      required: true
+  - type: textarea
+    id: finding
+    attributes:
+      label: What changed or needs correction?
+      description: Identify the rule/page or source ID and explain the observable problem in your own words.
+    validations:
+      required: true

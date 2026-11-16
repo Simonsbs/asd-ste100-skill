@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "fingerprint_version": 1,
+  "reviewed_at": "2026-11-16T08:11:43+00:00",
+  "sources": {
+    "issue9-pdf": {
+      "status": 200,
+      "sha256": "d1f4ea9e7cd6e46b47aa9057209f99e78c0e9cfc4e27a5b07895b05c1a166431",
+      "bytes": 3316157,
+      "kind": "binary",
+      "content_type": "application/pdf",
+      "final_url": "https://www.asd-ste100.org/assets/files/ASD-STE100_ISSUE9.pdf"
+    },
+    "official-about": {
+      "status": 200,
+      "sha256": "05faeb9881d05d3d9a277be28dc8cadb3534ad8ddf0327b39d889b34ac9f4933",
+      "bytes": 28051,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/about_STE.html"
+    },
+    "official-ai-paper": {
+      "status": 200,
+      "sha256": "678819db12b1c8900076341822232e49b45bdc060f243aa1b5c33cb94fba2df3",
+      "bytes": 93501,
+      "kind": "binary",
+      "content_type": "application/pdf",
+      "final_url": "https://www.asd-ste100.org/assets/files/WhitePaper-ASD-STE100_and_AI.pdf"
+    },
+    "official-change-template": {
+      "status": 200,
+      "sha256": "ef82e0f44af3af95a522880552ee22659ccd7919261048927f72fcdc6ce78cb9",
+      "bytes": 71809,
+      "kind": "binary",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "final_url": "https://www.asd-ste100.org/assets/files/CHANGE-FORM.docx"
+    },
+    "official-downloads": {
+      "status": 200,
+      "sha256": "73bd20c32397101c35f78d7c2c5634823663761d3a0eb9fd8c478e66af0384d1",
+      "bytes": 16080,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STE_downloads.html"
+    },
+    "official-faq": {
+      "status": 200,
+      "sha256": "d16d8a1cba8bda99eb8f415561be66caf36164a0bc0e19e901bfb1fbf76d9c81",
+      "bytes": 61667,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STE_faq.html"
+    },
+    "official-home": {
+      "status": 200,
+      "sha256": "317645e0aded1c840f6c56031a8dd1a6d88624b4371b2bd95f146cc67e529b0c",
+      "bytes": 16653,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/index.html"
+    },
+    "official-sitemap": {
+      "status": 200,
+      "sha256": "a32fb470a116feaaa0f2443aa78551ed4c2a068cb7a969c06980cada30516377",
+      "bytes": 806,
+      "kind": "sitemap",
+      "content_type": "text/xml",
+      "final_url": "https://www.asd-ste100.org/sitemap.xml"
+    },
+    "official-stemg": {
+      "status": 200,
+      "sha256": "9bfe4ab8bd9f71de4d1d1bf537564e893072f67824ffa564454bf94a37d408c9",
+      "bytes": 25271,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/ASD_STEMG.html"
+    },
+    "official-support-teams": {
+      "status": 200,
+      "sha256": "c8deb34df215995db5861522523dc6fdc13dbf5016fade5f9b5aa7369abe5acc",
+      "bytes": 18181,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STEWorkingGroups.html"
+    },
+    "official-terms-reference": {
+      "status": 200,
+      "sha256": "17af2e2a9f940aee937308a84ed19be05d534104b4afbbd21606a8664e8badf1",
+      "bytes": 13117,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STEMG_ToR.html"
+    },
+    "official-tools": {
+      "status": 200,
+      "sha256": "49ac4b09c6ca8ab44173c75bad0c3e2b109639bf41bc9e21a0abe3c272589cc4",
+      "bytes": 30540,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STEsoftware.html"
+    },
+    "official-trainers": {
+      "status": 200,
+      "sha256": "d593ea94b450e62af00f7f8a1cdb58d9350ae8a25eba9c9d2001f5796154211c",
+      "bytes": 23794,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STEtrainers.html"
+    },
+    "official-training": {
+      "status": 200,
+      "sha256": "e38c3ea38bf17dea291a2be7ac096e07d17dbdb54c101cac8784f35eb4560ce2",
+      "bytes": 20766,
+      "kind": "html",
+      "content_type": "text/html",
+      "final_url": "https://www.asd-ste100.org/STE_training.html"
+    },
+    "zenodo-latest-api": {
+      "status": 200,
+      "sha256": "5f412943085e079af5a7c87aadaff162b0dca629f68ce71634cddf30e8c54e43",
+      "bytes": 5497,
+      "kind": "json",
+      "content_type": "application/json",
+      "final_url": "https://zenodo.org/api/records/23666006"
+    }
+  }
+}

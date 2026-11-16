@@ -1,0 +1,274 @@
+{
+  "issue": 9,
+  "issued": "2025-01-15",
+  "pdf_pages": 434,
+  "source_url": "https://www.asd-ste100.org/assets/files/ASD-STE100_ISSUE9.pdf",
+  "version_doi": "10.5281/zenodo.23666006",
+  "rules": {
+    "1.1": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 46,
+      "printed_page": "1-1-2"
+    },
+    "1.2": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 46,
+      "printed_page": "1-1-2"
+    },
+    "1.3": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 48,
+      "printed_page": "1-1-4"
+    },
+    "1.4": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 48,
+      "printed_page": "1-1-4"
+    },
+    "1.5": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 49,
+      "printed_page": "1-1-5"
+    },
+    "1.6": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 53,
+      "printed_page": "1-1-9"
+    },
+    "1.7": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 55,
+      "printed_page": "1-1-11"
+    },
+    "1.8": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 55,
+      "printed_page": "1-1-11"
+    },
+    "1.9": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 56,
+      "printed_page": "1-1-12"
+    },
+    "1.10": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 56,
+      "printed_page": "1-1-12"
+    },
+    "1.11": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 57,
+      "printed_page": "1-1-13"
+    },
+    "1.12": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 57,
+      "printed_page": "1-1-13"
+    },
+    "1.13": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 60,
+      "printed_page": "1-1-16"
+    },
+    "1.14": {
+      "summary_pdf_page": 45,
+      "explanation_pdf_page": 61,
+      "printed_page": "1-1-17"
+    },
+    "8.6": {
+      "summary_pdf_page": 61,
+      "explanation_pdf_page": 107,
+      "printed_page": "1-8-1"
+    },
+    "2.1": {
+      "summary_pdf_page": 63,
+      "explanation_pdf_page": 63,
+      "printed_page": "1-2-1"
+    },
+    "2.2": {
+      "summary_pdf_page": 63,
+      "explanation_pdf_page": 64,
+      "printed_page": "1-2-2"
+    },
+    "3.1": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 67,
+      "printed_page": "1-3-1"
+    },
+    "3.2": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 68,
+      "printed_page": "1-3-2"
+    },
+    "3.3": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 68,
+      "printed_page": "1-3-2"
+    },
+    "3.4": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 69,
+      "printed_page": "1-3-3"
+    },
+    "3.5": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 70,
+      "printed_page": "1-3-4"
+    },
+    "3.6": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 71,
+      "printed_page": "1-3-5"
+    },
+    "3.7": {
+      "summary_pdf_page": 67,
+      "explanation_pdf_page": 75,
+      "printed_page": "1-3-9"
+    },
+    "4.1": {
+      "summary_pdf_page": 77,
+      "explanation_pdf_page": 77,
+      "printed_page": "1-4-1"
+    },
+    "4.2": {
+      "summary_pdf_page": 77,
+      "explanation_pdf_page": 79,
+      "printed_page": "1-4-3"
+    },
+    "4.3": {
+      "summary_pdf_page": 77,
+      "explanation_pdf_page": 80,
+      "printed_page": "1-4-4"
+    },
+    "4.4": {
+      "summary_pdf_page": 77,
+      "explanation_pdf_page": 83,
+      "printed_page": "1-4-7"
+    },
+    "4.5": {
+      "summary_pdf_page": 77,
+      "explanation_pdf_page": 84,
+      "printed_page": "1-4-8"
+    },
+    "5.1": {
+      "summary_pdf_page": 87,
+      "explanation_pdf_page": 87,
+      "printed_page": "1-5-1"
+    },
+    "5.2": {
+      "summary_pdf_page": 87,
+      "explanation_pdf_page": 88,
+      "printed_page": "1-5-2"
+    },
+    "5.3": {
+      "summary_pdf_page": 87,
+      "explanation_pdf_page": 89,
+      "printed_page": "1-5-3"
+    },
+    "5.4": {
+      "summary_pdf_page": 87,
+      "explanation_pdf_page": 90,
+      "printed_page": "1-5-4"
+    },
+    "5.5": {
+      "summary_pdf_page": 87,
+      "explanation_pdf_page": 91,
+      "printed_page": "1-5-5"
+    },
+    "6.1": {
+      "summary_pdf_page": 95,
+      "explanation_pdf_page": 95,
+      "printed_page": "1-6-1"
+    },
+    "6.2": {
+      "summary_pdf_page": 95,
+      "explanation_pdf_page": 96,
+      "printed_page": "1-6-2"
+    },
+    "6.3": {
+      "summary_pdf_page": 95,
+      "explanation_pdf_page": 98,
+      "printed_page": "1-6-4"
+    },
+    "6.4": {
+      "summary_pdf_page": 95,
+      "explanation_pdf_page": 99,
+      "printed_page": "1-6-5"
+    },
+    "6.5": {
+      "summary_pdf_page": 95,
+      "explanation_pdf_page": 100,
+      "printed_page": "1-6-6"
+    },
+    "6.6": {
+      "summary_pdf_page": 95,
+      "explanation_pdf_page": 101,
+      "printed_page": "1-6-7"
+    },
+    "7.1": {
+      "summary_pdf_page": 103,
+      "explanation_pdf_page": 104,
+      "printed_page": "1-7-2"
+    },
+    "7.2": {
+      "summary_pdf_page": 103,
+      "explanation_pdf_page": 105,
+      "printed_page": "1-7-3"
+    },
+    "7.3": {
+      "summary_pdf_page": 103,
+      "explanation_pdf_page": 106,
+      "printed_page": "1-7-4"
+    },
+    "8.1": {
+      "summary_pdf_page": 107,
+      "explanation_pdf_page": 108,
+      "printed_page": "1-8-2"
+    },
+    "8.2": {
+      "summary_pdf_page": 107,
+      "explanation_pdf_page": 108,
+      "printed_page": "1-8-2"
+    },
+    "8.3": {
+      "summary_pdf_page": 107,
+      "explanation_pdf_page": 109,
+      "printed_page": "1-8-3"
+    },
+    "8.4": {
+      "summary_pdf_page": 107,
+      "explanation_pdf_page": 110,
+      "printed_page": "1-8-4"
+    },
+    "8.5": {
+      "summary_pdf_page": 107,
+      "explanation_pdf_page": 111,
+      "printed_page": "1-8-5"
+    },
+    "8.7": {
+      "summary_pdf_page": 107,
+      "explanation_pdf_page": 114,
+      "printed_page": "1-8-8"
+    },
+    "9.1": {
+      "summary_pdf_page": 115,
+      "explanation_pdf_page": 115,
+      "printed_page": "1-9-1"
+    },
+    "9.2": {
+      "summary_pdf_page": 115,
+      "explanation_pdf_page": 119,
+      "printed_page": "1-9-5"
+    },
+    "9.3": {
+      "summary_pdf_page": 115,
+      "explanation_pdf_page": 121,
+      "printed_page": "1-9-7"
+    },
+    "9.4": {
+      "summary_pdf_page": 115,
+      "explanation_pdf_page": 122,
+      "printed_page": "1-9-8"
+    }
+  }
+}
